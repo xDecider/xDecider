@@ -1,4 +1,4 @@
-### C# / Reverse Engineering
+### C# & Reverse Engineering
 
 <a href="https://github.com/xDecider/">
 <img alt="" src="https://komarev.com/ghpvc/?username=xDecider&style=flat-square">
