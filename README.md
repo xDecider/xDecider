@@ -1,6 +1,6 @@
 ### C# / Reverse Engineering
 
-Most of my Repos are currently private . . .
+Most of my Repos are currently private.
 
 <a href="https://github.com/xDecider/">
 <img alt="" src="https://komarev.com/ghpvc/?username=xDecider&style=flat-square">
