@@ -1,6 +1,4 @@
-### Greetings
-
-C# / Reverse Engineering
+### C# / Reverse Engineering
 
 Most of my Repos are currently private.
 
