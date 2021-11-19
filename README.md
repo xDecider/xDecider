@@ -1,7 +1,3 @@
-### Hello and Welcome!
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&cover_image=true&theme=novatorem&align=right)](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&redirect=true)
-
 ### C# / Reverse Engineering
 
 Most of my Repositories are currently private.
