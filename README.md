@@ -1,8 +1,8 @@
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e46w8e2q90chkbupuypk47kw0&cover_image=true&theme=novatorem&align=right)](https://spotify-github-profile.vercel.app/api/view?uid=e46w8e2q90chkbupuypk47kw0&redirect=true)
+
 ### C# / Reverse Engineering
 
 Most of my Repositories are currently private.
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&cover_image=true&theme=novatorem&align=right)](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&redirect=true)
 
 <a href="https://github.com/xDecider/">
 <img alt="" src="https://komarev.com/ghpvc/?username=xDecider&style=flat-square">
