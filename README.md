@@ -1,6 +1,5 @@
 ### Welcome!
 
-C# / Reverse Engineering
 
 Most of my Repositories are currently private.
 
